@@ -13,10 +13,4 @@
  *= require_tree .
  *= require_self
  */
- $gray: #F4F4F4;
 
-.question {
-  border-left: 2px solid $gray;
-
-}
-@import "questions"
